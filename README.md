@@ -12,6 +12,7 @@ I am an electrical engineer with hands on experience in **Industrial Control Sys
 My GitHub profile is used to share selected projects, tools / Calculators, and technical experiments that support articles published on my website; 
 
 🔗 https://www.savelectricalsystems.ie
+🔗 https://www.savelectrical.com
 
 Some of the repositories are public reference projects, others support private or commercial work and are not shared. 
 
