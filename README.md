@@ -9,10 +9,11 @@ Micro Renewable Systems
 ## About
 
 I am an electrical engineer with hands on experience in **Industrial Control Systems**, **Automation**, and **Micro Renewable Technologies**.  
-My GitHub profile is used to share selected projects, tools / Calculators, and technical experiments that support articles published on my website; 
+My GitHub profile is used primarily to store various code, share information about selected projects, electrical tools, and technical experiments that support articles published on my website; 
 
-🔗 https://www.savelectricalsystems.ie
-🔗 https://www.savelectrical.com
+https://www.savelectricalsystems.ie
+
+https://www.savelectrical.com
 
 Some of the repositories are public reference projects, others support private or commercial work and are not shared. 
 
@@ -23,7 +24,7 @@ Some of the repositories are public reference projects, others support private o
 - Electrical control systems 
 - Industrial automation 
 - Micro Renewable Technologies
-- Practical engineering tools & calculators
+- Practical engineering tools 
 - Real world project breakdowns
 
 ---
@@ -45,7 +46,6 @@ Each project includes a short description.
 Most project context, diagrams, and explanations are live on the website listed;
 
 🔗 https://www.savelectricalsystems.ie/projects/  
-🔗 https://www.savelectricalsystems.ie/paul-savage/
 
 ---
 
