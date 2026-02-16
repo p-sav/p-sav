@@ -54,7 +54,7 @@ Most project context, diagrams, and explanations are live on the website listed;
 - Website: https://www.savelectricalsystems.ie  
 - LinkedIn: https://www.linkedin.com/company/sav-electrical-systems-ltd/  
 - GitHub: https://github.com/p-sav
-- Youtube: https://www.youtube.com/@PSav-l9b
+- Youtube: https://www.youtube.com/@Paul_Savage
 
 ---
 
